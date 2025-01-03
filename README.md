@@ -27,7 +27,6 @@ The First-Gen Mentorship Platform is designed to bridge the gap between first-ge
 - **Frontend:**
   - React.js
   - React Router for navigation
-  - Material-UI/Bootstrap (mention which one you used)
 
 - **Backend:**
   - Flask (Python)
