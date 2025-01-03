@@ -85,17 +85,7 @@ FLASK_ENV=development
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Contact
-
-Your Name - [your.email@example.com]
-Project Link: [https://github.com/yourusername/repo-name]
-
 ## Acknowledgments
 
 - Thanks to all mentors who volunteer their time
 - First-generation students who provided feedback
-- [Any other acknowledgments]
