@@ -1,4 +1,4 @@
-# First-Gen Mentorship Platform
+# Pier
 
 A web platform connecting first-generation college applicants with mentors and resources to support their college application journey.
 
